@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aaa
 a
+=======
+aaaaaaaa
+>>>>>>> feature-c
